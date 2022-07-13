@@ -1,0 +1,3 @@
+rootProject.name = "AndroidUILibrary"
+include ':app'
+include ':androidUILibrary'
