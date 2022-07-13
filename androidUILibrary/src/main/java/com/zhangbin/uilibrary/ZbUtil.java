@@ -12,4 +12,8 @@ public class ZbUtil {
         return "HelloWorld";
     }
 
+    public static String getAndroidTest(){
+        return "AndroidTest";
+    }
+
 }
